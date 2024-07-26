@@ -33,6 +33,7 @@ body {
 /* Mode Buttons */
 .mode-buttons {
   display: flex;
+  gap: 0.5rem;
   justify-content: space-between;
   margin-bottom: 20px;
   border-radius: 10px;
